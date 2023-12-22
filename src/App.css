@@ -1,0 +1,10 @@
+.container {
+  min-width: 100%;
+  min-height: 100vh;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(45deg, #b7fbd5, #fb9fb1);
+
+
+
+}
